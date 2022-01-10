@@ -12,14 +12,18 @@ Raspberry Pi 3 (ModelB)
 
 ubuntu20.04 LTS
 
+ROS
+
 # インストール方法
+$ cd catkin_ws/src/
+
 $ git clone https://github.com/20C1141/mypkg.git
 
-$ 
+$ cd .. 
 
-$ 
+$ catkin_make
 
-$ 
+$ source ~/.bashrc
 
 # 実行方法
 端末1でroscoreを立ち上げる。
