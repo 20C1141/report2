@@ -22,9 +22,20 @@ $
 
 # 実行方法
 端末1でroscoreを立ち上げる。
-'''
+
 $ roscore
-'''
+
+端末2でcount.pyを実行する。
+
+$ rosrun mypkg count.py
+
+端末3でtwice.pyを実行する。
+
+$ rosrun mypkg twice.py
+
+端末4で
+
+$ rostopic echo /twice
 
 
 # ライセンス
