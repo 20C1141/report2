@@ -12,9 +12,20 @@ Raspberry Pi 3 (ModelB)
 ubuntu20.04 LTS
 
 # インストール方法
-$ git clone 
+$ git clone https://github.com/20C1141/mypkg.git
+
+$ 
+
+$ 
+
+$ 
 
 # 実行方法
+端末1でroscoreを立ち上げる。
+'''
+$ roscore
+'''
+
 
 # ライセンス
 GNU　General　Public Licensev3.0
