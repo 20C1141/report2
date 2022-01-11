@@ -1,4 +1,4 @@
-# mypkg
+# report2
 ロボットシステム学　課題2
 
 # 概要
@@ -19,7 +19,7 @@ ROS
 # インストール方法
 $ cd catkin_ws/src/
 
-$ git clone https://github.com/20C1141/mypkg.git
+$ git clone https://github.com/20C1141/report2.git
 
 $ cd .. 
 
