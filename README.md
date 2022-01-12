@@ -46,7 +46,7 @@ $ rostopic echo /twice
 
 
 # ライセンス
-GNU　General　Public Licensev3.0
+BSD 3-Clause License
 
 # 著者
 Soya Watabe +　Ryuichi Ueda
